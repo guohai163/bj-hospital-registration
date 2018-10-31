@@ -1,0 +1,25 @@
+{
+  "name": "bj-hospital-registration",
+  "version": "1.0.0",
+  "description": "beijing hospital auto registration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guohai163/bj-hospital-registration.git"
+  },
+  "author": "umi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guohai163/bj-hospital-registration/issues"
+  },
+  "homepage": "https://github.com/guohai163/bj-hospital-registration#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "querystring": "^0.2.0",
+    "readline-sync": "^1.4.9",
+    "urllib-sync": "^1.1.4"
+  }
+}
